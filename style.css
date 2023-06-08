@@ -1,8 +1,12 @@
 body{
     background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 .container{
     display: flex;
-    justify-items: center;
+    justify-content: center;
     align-items: center;
 }
